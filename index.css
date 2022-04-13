@@ -1,0 +1,95 @@
+body{
+    background-color: #000814;
+}
+
+/* Navbar */
+.navbar {
+    position: sticky;
+    background-color: #001d3d;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 14px;
+    padding: 0;
+}
+
+.narutoIcon {
+    position: relative;
+    height: 80px;
+    bottom: 15px;
+    left: 20px;
+}
+
+.list-item {
+    float: left;
+    list-style: none;
+    max-height: 8px;
+}
+
+.list-ye {
+    margin: 16px;
+
+}
+
+.list-option {
+    text-decoration: none;
+    color: #e0ac00;
+}
+
+.list-option:hover {
+    color: #f7e27b;
+}
+
+.list-item-right {
+    float: right;
+    margin-right: 15px;
+}
+
+.rigth-ye {
+    list-style: none;
+    margin-right: 10px;
+}
+
+.search {
+    margin: 16px;
+    border-radius: 10px;
+}
+
+/* About Me */
+.mine{
+    justify-content: center;
+    align-items: center;
+    height: 245px;
+    border-radius: 20px;
+    width: 100%;
+    display: flex;
+    background-color: #212f45;
+}
+
+.pic{
+    width: 225px;
+}
+
+.photo{    
+    width: 200px;
+}
+
+.hr-pattern {
+    border-style: none;
+    border-left-style: dotted;
+    border-color:darkcyan;
+    width: 30px;
+    height: 215px;
+    margin: 15px 0px 0px 0px;
+   
+}
+
+.about{
+    width: 350px;
+    color: rgb(252, 211, 135);
+}
+
+.name {
+    margin-top: 0;
+}
+
+/* List Anime */
